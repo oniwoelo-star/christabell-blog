@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Oniwo Christabel's Blog</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 20px;
+        }
+
+        header{
+            background-color: #ff69b4;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        .post{
+            background: white;
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 5px gray;
+        }
+
+        footer{
+            text-align: center;
+            margin-top: 30px;
+            color: gray;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Welcome to Oniwo Christabel's Blog</h1>
+    <p>Sharing my thoughts, dreams, and journey.</p>
+</header>
+
+<div class="post">
+    <h2>My First Blog Post</h2>
+    <p>
+        Hello everyone! My name is Oniwo Christabel.
+        This is my first personal blog created with HTML.
+        Here I'll share stories, experiences, and things I love.
+    </p>
+</div>
+
+<div class="post">
+    <h2>About Me</h2>
+    <p>
+        I'm passionate about learning, creativity,
+        and building my future one step at a time.
+    </p>
+</div>
+
+<footer>
+    <p>© 2026 Oniwo Christabel</p>
+</footer>
+
+</body>
+</html>
